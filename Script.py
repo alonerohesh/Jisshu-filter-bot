@@ -120,7 +120,7 @@ User - {}"""
 🌟 Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<blockquote>📂<a href="https://t.me/Filmy_Rohesh">{file_name}</a></blockquote></b>"""
+    FILE_CAPTION = """🔥Join:-@Filmy_Rohesh\n<blockquote>📂<a href="https://t.me/Filmy_Rohesh">{file_name}</a></blockquote></b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ ❗"""
