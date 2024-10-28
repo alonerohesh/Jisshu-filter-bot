@@ -120,7 +120,7 @@ User - {}"""
 🌟 Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Pirates_Titans">𝙋𝙞𝙧𝙖𝙩𝙚𝙨 𝙏𝙞𝙩𝙖𝙣𝙨</a>」</b>"""
+    FILE_CAPTION = """<blockquote>📂<a href="https://t.me/Filmy_Rohesh">{file_name}</a></blockquote></b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ ❗"""
